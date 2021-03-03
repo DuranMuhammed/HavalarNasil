@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1800dp"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginBottom="2dp"
+    android:layout_marginTop="2dp"
+    android:background="#00E6E6"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imageViewEge1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewIzmir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="İzmir"/>
+
+    <TextView
+        android:id="@+id/textViewIzmirTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewEge2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewManisa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Manisa"/>
+
+    <TextView
+        android:id="@+id/textViewManisaTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewEge3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewAydin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Aydın"/>
+
+    <TextView
+        android:id="@+id/textViewAydinTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewEge4"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewDenizli"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Denizli"/>
+
+    <TextView
+        android:id="@+id/textViewDenizliTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewEge5"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewMugla"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Muğla"/>
+
+    <TextView
+        android:id="@+id/textViewMuglaTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewEge6"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewAfyon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Afyonkarahisar"/>
+
+    <TextView
+        android:id="@+id/textViewAfyonTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewEge7"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewKutahya"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Kütahya"/>
+
+    <TextView
+        android:id="@+id/textViewKutahyaTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewEge8"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewUsak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Uşak"/>
+
+    <TextView
+        android:id="@+id/textViewUsakTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+</LinearLayout>
