@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1950dp"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginBottom="2dp"
+    android:layout_marginTop="2dp"
+    android:background="#00E6E6"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewGaziantep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Gaziantep"/>
+
+    <TextView
+        android:id="@+id/textViewGaziantepTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewSanliurfa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Şanlıurfa"/>
+
+    <TextView
+        android:id="@+id/textViewSanliurfaTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewDiyarbakir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Diyarbakır"/>
+
+    <TextView
+        android:id="@+id/textViewDiyarbakirTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu4"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewMardin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Mardin"/>
+
+    <TextView
+        android:id="@+id/textViewMardinTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu5"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewAdiyaman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Adıyaman"/>
+
+    <TextView
+        android:id="@+id/textViewAdiyamanTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu6"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewBatman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Batman"/>
+
+    <TextView
+        android:id="@+id/textViewBatmanTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu7"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewSirnak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Şırnak"/>
+
+    <TextView
+        android:id="@+id/textViewSirnakTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu8"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewSiirt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Siirt"/>
+
+    <TextView
+        android:id="@+id/textViewSiirtTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewGuneydogu9"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewKilis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Kilis"/>
+
+    <TextView
+        android:id="@+id/textViewKilisTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+</LinearLayout>

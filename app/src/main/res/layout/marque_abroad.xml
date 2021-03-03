@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="3750dp"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginBottom="2dp"
+    android:layout_marginTop="2dp"
+    android:background="#00E6E6"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imageViewAbroad1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewMekke"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Mekke"/>
+
+    <TextView
+        android:id="@+id/textViewMekkeTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewMedine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Medine"/>
+
+    <TextView
+        android:id="@+id/textViewMedineTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewKudus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Kudüs"/>
+
+    <TextView
+        android:id="@+id/textViewKudusTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad4"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewTurkistan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Türkistan(KAZ)"/>
+
+    <TextView
+        android:id="@+id/textViewTurkistanTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad5"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewOtuken"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Ötüken(MOĞ)"/>
+
+    <TextView
+        android:id="@+id/textViewOtukenTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad6"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewKasgar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Kaşgar(Doğu Türkistan)"/>
+
+    <TextView
+        android:id="@+id/textViewKasgarTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad7"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewBaku"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Bakü"/>
+
+    <TextView
+        android:id="@+id/textViewBakuTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad8"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewTaskent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Taşkent"/>
+
+    <TextView
+        android:id="@+id/textViewTaskentTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad9"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewAskabat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Aşkabat"/>
+
+    <TextView
+        android:id="@+id/textViewAskabatTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad10"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewSemerkant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Semerkant"/>
+
+    <TextView
+        android:id="@+id/textViewSemerkantTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad11"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewBuhara"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Buhara"/>
+
+    <TextView
+        android:id="@+id/textViewBuharaTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad12"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewHocali"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Hocalı"/>
+
+    <TextView
+        android:id="@+id/textViewHocaliTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad13"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewSaraybosna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Saraybosna"/>
+
+    <TextView
+        android:id="@+id/textViewSaraybosnaTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad14"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewSimferopol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Kırım-Simferopol"/>
+
+    <TextView
+        android:id="@+id/textViewSimferopolTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad15"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewKerkuk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="Kerkük"/>
+
+    <TextView
+        android:id="@+id/textViewKerkukTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+    <ImageView
+        android:id="@+id/imageViewAbroad16"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/one_day" />
+
+    <TextView
+        android:id="@+id/textViewIslamabad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="@color/Cities"
+        android:text="İslamabad"/>
+
+    <TextView
+        android:id="@+id/textViewIslamabadTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="22sp"
+        android:paddingRight="35dp"
+        android:textColor="@color/Cities"
+        android:text="Temp"/>
+
+
+
+</LinearLayout>
